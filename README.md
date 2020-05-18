@@ -1,4 +1,4 @@
-# Basic Python exercise
+# Basic Python with wateredTea
 This project is made for learning the basic Python programming language.
 
 ## Get started!
